@@ -20,6 +20,9 @@ Une fois que l'on a eu des réponses a ces requêtes nous pouvons remplir la lis
 L'application peut égalemment marcher sans faire appel a l'API, lorsque l'application appelle pour la 1ere fois l'API le smartphone met en cache les données reçues graçe a API rest.
 Une  fois ces données mises en cache l'application ne fera plus de requete a l'API sauf si le cache est vidé.
 
+
+
+
 Une fois terminer l'application a été modifié afin de respecter le modèle MVC ( Modèle-vue-contrôleur ).
 Le motif est composé de trois types de modules ayant trois responsabilités différentes : les modèles, les vues et les contrôleurs.
 
@@ -46,7 +49,9 @@ il faut dépendre des abstractions, pas des implémentations
 
 
 
-#Rendu
+
+
+#Rendu Final
 Voici a quoi ressemble le pokdex une fois rempli.
 ![application](https://user-images.githubusercontent.com/63153452/83965329-3af57a80-a8b3-11ea-9674-305c8cb8e220.PNG)
 
