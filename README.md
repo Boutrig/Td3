@@ -10,7 +10,7 @@ Pas besoin de le remplir l'API "pokeAPI" le fait pour vous!
 
 Tout d'abord une liste a été créée sur la page d'accueil de l'application à l'aide d'une Recyclerview.
 La RecyclerView le successeur de la ListView/GridView - Gain de performance + animations (ajout/suppression d'éléments) - 
-Elle permet de gerer les listes d'element verticales et horizontales (LayoutManager) - (Optionel) Disponible en librairie de support
+Elle permet de gerer les listes d'element verticales et horizontales (LayoutManager) - (Optionel) Disponible en librairie de support.
 
 
 
@@ -27,7 +27,7 @@ Un modèle (Model) contient les données à afficher.
 Une vue (View) contient la présentation de l'interface graphique.
 Un contrôleur (Controller) contient la logique concernant les actions effectuées par l'utilisateur.
 
-Les principes SOLID ont été respecter ils sont destinés à rendre les conceptions de logiciels plus compréhensibles.
+Les principes SOLID ont été respectés ils sont destinés à rendre les conceptions de logiciels plus compréhensibles.
 
 Responsabilité unique (Single responsibility principle)
 une classe, une fonction ou une méthode doit avoir une et une seule responsabilité
