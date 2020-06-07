@@ -48,6 +48,7 @@ il faut dépendre des abstractions, pas des implémentations
 
 #Rendu
 Voici a quoi ressemble le pokdex une fois rempli.
+![application](https://user-images.githubusercontent.com/63153452/83965329-3af57a80-a8b3-11ea-9674-305c8cb8e220.PNG)
 
 
 
